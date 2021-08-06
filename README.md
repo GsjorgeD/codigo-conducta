@@ -2,7 +2,7 @@
 
 El equipo detrás de Dolphinstec se compromete a construir una comunidad inclusiva, libre de abuso, basada en una tolerancia 0 a cualquier forma de agresión para todas las personas de nuestra comunidad.
 
-El código de conducta busca promover que todos nos sintamos en confianza y seguros de formar parte de esta comunidad, tan pronto respetes a las demás personas de la comunidad, no debería haber ningún problema ❤️
+El código de conducta busca promover que todos nos sintamos en un entorno de confianza y seguros de formar parte de esta comunidad, tan pronto respetes a las demás personas de la comunidad, no debería haber ningún problema ❤️
 
 Un buen código de conducta que se hace valer, nos beneficia a todos 🎉
 
@@ -76,7 +76,7 @@ Respetaremos la confidencialidad de las solicitudes con el propósito de protege
 
 ## Reconocimiento
 
-Este código de conducta es una adaptación del "Community Covenant (http://community-covenant.net), version 1.0, disponible en http://community-covenant.net/version/1/0/. El Community Covenant es un esfuerzo de código abierto basado en otros códigos de conducta anterior a este, incluyendo y el Contributor Covenant  (http://contributor-covenant.org/) y el código de coducta para la comunidad LGBTQ en Tech (http://lgbtq.technology/coc.html)
+Este código de conducta es una adaptación del codigo de conducta de la comunidad de Codigo Facilito que a su vez se basa en "Community Covenant (http://community-covenant.net), version 1.0, disponible en http://community-covenant.net/version/1/0/. El Community Covenant es un esfuerzo de código abierto basado en otros códigos de conducta anterior a este, incluyendo y el Contributor Covenant  (http://contributor-covenant.org/) y el código de coducta para la comunidad LGBTQ en Tech (http://lgbtq.technology/coc.html)
 
 ## Mejora continua del Código de Conducta
 
