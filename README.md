@@ -80,4 +80,4 @@ Este código de conducta es una adaptación del codigo de conducta de la comunid
 
 ## Mejora continua del Código de Conducta
 
-Si consideras que alguna forma de abuso no está siendo considerada como parte del código de conducta, por favor envia un correo a daniel@Dolphinstec.tech.
+Si consideras que alguna forma de abuso no está siendo considerada como parte del código de conducta, por favor envia un correo a comunidad@Dolphinstec.tech.
